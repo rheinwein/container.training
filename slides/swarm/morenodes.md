@@ -2,7 +2,7 @@
 
 - Right now, we have only one manager (node1)
 
-- If we lose it, we lose quorum - and that's *very bad!*
+- If we lose it, we lose the ability to schedule new work  - and that's *very bad!*
 
 - Containers running on other nodes will be fine ...
 
